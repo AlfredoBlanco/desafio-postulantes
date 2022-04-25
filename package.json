@@ -1,0 +1,23 @@
+{
+  "name": "desafio-postulantes",
+  "version": "1.0.0",
+  "description": "Postulation challenge",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoBlanco/desafio-postulantes.git"
+  },
+  "author": "Alfredo Blanco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfredoBlanco/desafio-postulantes/issues"
+  },
+  "homepage": "https://github.com/AlfredoBlanco/desafio-postulantes#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "puppeteer": "^13.6.0"
+  }
+}
