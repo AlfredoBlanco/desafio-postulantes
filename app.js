@@ -36,6 +36,7 @@ const getTableData = async () => {
     return allData;
 };
 
+//Use npm start tu run the app
 //The function getTableData brings all the json from the page
 //You can also filter with using id query 
 app.get('/', async (req, res) => {
